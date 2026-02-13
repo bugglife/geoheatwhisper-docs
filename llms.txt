@@ -1,0 +1,158 @@
+# GeoHeatWhisper - Local SEO Geo-Grid Rank Tracker
+
+> GeoHeatWhisper is a local SEO rank tracking tool that visualizes Google Maps rankings using geographic heat maps. Track rankings block-by-block across neighborhoods instead of from a single point.
+
+## Documentation
+
+- Overview: https://geoheatwhisper.com/docs/
+- How It Works: https://geoheatwhisper.com/docs/how-it-works.html
+- Features: https://geoheatwhisper.com/docs/features.html
+- Pricing: https://geoheatwhisper.com/docs/pricing.html
+- Use Cases: https://geoheatwhisper.com/docs/use-cases.html
+- FAQ: https://geoheatwhisper.com/docs/faq.html
+
+## What is GeoHeatWhisper?
+
+GeoHeatWhisper breaks down geographic areas (cities, neighborhoods, zip codes) into grids and checks Google Maps rankings from each grid cell. This creates interactive heatmaps showing:
+- Red zones (Rank 1–3) where you rank highly
+- Orange zones (Rank 4–10) with good visibility
+- Yellow zones (Rank 11–20) with moderate visibility
+- Grey zones (Unranked) where you don't appear
+
+Traditional rank checkers only show position from one point. GeoHeatWhisper reveals spatial reality: you might rank #1 downtown but #15 in suburbs.
+
+## Target Users
+
+- **Local SEO Agencies**: Track multiple clients, generate white-label reports, prove ROI
+- **Multi-Location Businesses**: Monitor franchises, retail chains, service territories
+- **Marketing Consultants**: Provide data-driven local SEO insights to clients
+- **In-House Teams**: Optimize Google Business Profile visibility across locations
+
+## Core Features
+
+- Geo-grid heatmap visualization (1×1, 3×3, 5×5, 7×7 grids)
+- Neighborhood-by-neighborhood tracking
+- Competitor heatmap comparison (Pro/Agency) — up to 5 competitors per market
+- Rank history charts and 12-month trend analysis
+- Snapshot comparison (before/after campaigns)
+- Save to Leads with tagging, notes, and contact info
+- Automated email reports (weekly or monthly)
+- CSV export for client reporting
+- Compare vs. My Business view
+- Water grid detection for coastal/waterfront businesses
+- White-label client reports (Agency)
+- REST API access (Agency)
+
+## Pricing
+
+- **Free**: $0/mo — 10 credits/month, 1×1 grid only, basic heatmaps, no credit card required
+- **Pro Monthly**: $49/mo — 1,000 credits/month, all grid sizes (1×1 through 7×7), competitor tracking, automated reports, 12-month history
+- **Pro Annual**: $349/year (≈$29/mo, save $239) — 12,000 credits/year, all Pro features
+- **Agency**: $249/mo — Unlimited scans/keywords, white-label reports, API, dedicated manager
+
+### How Credits Work
+- 1 credit = 1 grid cell data point
+- A 1×1 grid scan uses 1 credit
+- A 3×3 grid scan uses 9 credits
+- A 5×5 grid scan uses 25 credits
+- A 7×7 grid scan uses 49 credits
+- Unused credits do not roll over
+
+## Common Use Cases
+
+1. **Agency Portfolio Management**: Track 20+ clients across different markets with multi-client dashboard
+2. **Franchise Monitoring**: Compare performance across 15+ locations, identify underperformers
+3. **Service Area Optimization**: Track 30-mile service radius, optimize neighborhood-by-neighborhood
+4. **Competitive Intelligence**: Overlay competitor rankings to identify where they outrank you
+5. **Campaign Measurement**: Before/after snapshot comparison to prove SEO campaign ROI
+
+## Key Differentiators
+
+Unlike traditional rank trackers that check from a single point, GeoHeatWhisper reveals:
+- How proximity affects rankings
+- Which neighborhoods you dominate vs. struggle in
+- Where competitors are gaining ground
+- Opportunities for geographic expansion
+- Visual proof of campaign impact
+
+## Technical Details
+
+- Data source: Direct Google Maps API queries from each grid cell
+- Grid sizes: 1×1, 3×3, 5×5, 7×7 (1 to 49 cells)
+- Web-based application — no software installation required
+- Works in any modern browser (Chrome, Firefox, Safari, Edge)
+- Supports any location worldwide where Google Maps operates
+- Export formats: CSV data, PNG/JPG screenshots
+- Data encrypted and stored securely, HTTPS everywhere
+
+## How It Works
+
+1. **Enter a keyword and location** — Type a search term (e.g., "dentist near me") and a city or address
+2. **Choose your grid size** — Select from 1×1 (single point, Free) up to 7×7 (49 data points, Pro)
+3. **View the heat map** — See color-coded rankings overlaid on Google Maps. Red = top 3, Orange = 4–10, Yellow = 11–20, Grey = unranked
+4. **Analyze results** — Click any grid cell to see the full top-20 ranking list for that location
+5. **Save snapshots** — Store your results to track ranking changes over time
+6. **Export and report** — Download CSV data or set up automated email reports
+
+## Site Pages
+
+- **Homepage**: https://geoheatwhisper.com/ — Main landing page with product overview, demo, and feature highlights
+- **Pricing**: https://geoheatwhisper.com/pricing — Full pricing details for Free, Pro ($49/mo or $349/yr), and Agency plans
+- **How It Works**: https://geoheatwhisper.com/how-it-works — Step-by-step guide to using the tool
+- **About**: https://geoheatwhisper.com/about — Company mission: enterprise-grade local SEO technology built for small businesses and agencies
+- **Blog**: https://geoheatwhisper.com/blog — Articles on local SEO strategy, Google Maps ranking factors, and geo grid analysis
+- **Local SEO Tips**: https://geoheatwhisper.com/local-seo-tips — Educational resource on local search optimization
+- **Tutorials**: https://geoheatwhisper.com/tutorials — How-to guides for using GeoHeatWhisper
+- **Keyword Heatmap Tool**: https://geoheatwhisper.com/keyword-heatmap-tool — Feature deep-dive on keyword heat mapping
+- **Local SEO Grid**: https://geoheatwhisper.com/local-seo-grid — Explanation of the geo grid methodology
+- **Competitor Heatmaps**: https://geoheatwhisper.com/competitor-heatmaps — Competitive analysis feature overview
+- **Contact**: https://geoheatwhisper.com/contact — Contact form for sales and support inquiries
+- **Map View**: https://geoheatwhisper.com/map — The interactive heat map tool (requires JavaScript)
+- **Compare**: https://geoheatwhisper.com/compare — Side-by-side business comparison tool
+- **Snapshots**: https://geoheatwhisper.com/snapshots — Saved ranking snapshots dashboard
+- **Leads**: https://geoheatwhisper.com/leads — Saved business leads manager
+- **Documentation**: https://geoheatwhisper.com/docs/ — Full documentation hub
+
+## Frequently Asked Questions
+
+**Q: What is a geo-grid heat map?**
+A: A geo grid heat map overlays a grid of search points on a map, checking Google Maps rankings at each point. The results are color-coded (red/orange/yellow/grey) to show where a business ranks well and where it doesn't.
+
+**Q: How is GeoHeatWhisper different from regular rank trackers?**
+A: Traditional rank checkers show rankings from a single location. GeoHeatWhisper checks rankings from multiple geographic points simultaneously, revealing how visibility varies across neighborhoods and service areas.
+
+**Q: How do credits work?**
+A: 1 credit = 1 grid cell data request. A 3×3 grid uses 9 credits, 5×5 uses 25, and 7×7 uses 49. Free plan includes 10 credits/month. Pro includes 1,000 credits/month.
+
+**Q: What's included in Pro?**
+A: All grid sizes (1×1 through 7×7), competitor tracking (up to 5 per market), automated email reports, 12-month ranking history, Save to Leads with tagging, and priority support. $49/month or $349/year.
+
+**Q: Can I track competitors?**
+A: Yes. Pro and Agency plans include competitor heatmap comparison.
+
+**Q: White-label reports?**
+A: Yes. Agency plan includes fully branded reports with your logo and colors.
+
+**Q: API access?**
+A: Yes. Agency plan includes REST API for custom integrations.
+
+**Q: Do unused credits roll over?**
+A: No. Monthly credits reset each billing period.
+
+**Q: Do I need a credit card for the free plan?**
+A: No. No credit card required to start.
+
+## Support
+
+- Free Plan: Documentation and community resources
+- Pro Plan: Priority email support
+- Agency Plan: Dedicated account manager (phone + email)
+
+## Contact
+
+- Website: https://geoheatwhisper.com
+- Contact: https://geoheatwhisper.com/contact
+- Privacy Policy: https://geoheatwhisper.com/privacy
+- Terms of Service: https://geoheatwhisper.com/terms
+
+© 2026 GeoHeatWhisper. All rights reserved.
